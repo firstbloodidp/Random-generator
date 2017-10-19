@@ -57,7 +57,7 @@ print
 midSquare(10000,113,2500)   
 print
 
-x = range(10000)
-y_2 = [random.randint(1,9999) for i in range(10000)]
+x = 5000
+y_2 = 5000
 plt.plot(x, y_2, "o", color="blue")
 plt.show()
